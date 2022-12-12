@@ -39,7 +39,7 @@
     "axios": "^0.19.2",
     "better-scroll": "^1.15.2",
     "core-js": "^3.6.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pac-proxy-agent": "^3.0.1",
     "request": "^2.88.0",
     "vant": "^2.8.4",
